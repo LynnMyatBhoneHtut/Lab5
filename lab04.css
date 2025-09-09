@@ -55,6 +55,7 @@ aside, footer {
 }
 
 
+
 table, th, td {
     border: 1px solid black;     
 }
@@ -78,7 +79,7 @@ ol ul {
 
 
 aside:hover {
-    display: none;
+    display: block;
 }
 
 
